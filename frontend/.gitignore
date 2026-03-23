@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints (large files)
+realtime_checkpoints/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
